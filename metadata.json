@@ -1,0 +1,6 @@
+{
+  "name": "Dox Help",
+  "description": "Your Digital Service Partner - Herbalife assistance, digital services, and social media solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
